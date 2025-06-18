@@ -200,7 +200,7 @@ footer {
   color: black; 
 }
 
-@media (min-width: 700px) {
+@media (min-width: 400px) {
   body {
     background: url(img/bg-desktop.jpg) no-repeat top center/cover; 
 }
