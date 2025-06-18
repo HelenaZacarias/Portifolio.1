@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url(img/bg-mobile.jpg) no-repeat top center;
+  background: url(../img/bg-mobile.jpg) no-repeat top center;
   height: 100vh;
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 .light body{
-    background: url(img/bg-mobile-light.jpg) no-repeat top center/cover;
+    background: url(../img/bg-mobile-light.jpg) no-repeat top center/cover;
 }
 
 body.dark{
@@ -200,7 +200,7 @@ footer {
   color: black; 
 }
 
-@media (min-width: 420) {
+@media (min-width: 700px) {
   body {
     background: url(img/bg-desktop.jpg) no-repeat top center/cover; 
 }
