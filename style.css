@@ -202,7 +202,7 @@ footer {
 
 @media (min-width: 400px) {
   body {
-    background: url(img/bg-desktop.jpg) no-repeat top center/cover; 
+    background: url(img/bg-mobile.jpg) no-repeat top center/cover; 
 }
 
   .light body {
